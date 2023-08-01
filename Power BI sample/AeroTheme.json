@@ -1,0 +1,70 @@
+﻿{
+    "name": "CY23SU02",
+    "dataColors": [
+        "#C2508B",
+        "#F57DBA",
+        "#974EC3",
+        "#5E4DAB"
+    ],
+    "foreground": "#131312",
+    "foregroundNeutralSecondary": "#6C6966",
+    "backgroundLight": "#E5E0DA",
+    "foregroundNeutralTertiary": "#ABA7A2",
+    "backgroundNeutral": "#C6C2BE",
+    "tableAccent": "#118DFF",
+    "maximum": "#4A2D75",
+    "center": "#1AAB40",
+    "minimum": "#E645AB",
+    "bad": "#E66C37",
+    "neutral": "#6B007B",
+    "good": "#12239E",
+    "textClasses": {
+        "callout": {
+            "fontSize": 24,
+            "fontFace": "Jost Regular",
+            "color": "#252423"
+        },
+        "title": {
+            "fontSize": 12,
+            "fontFace": "Jost Regular",
+            "color": "#252423"
+        },
+        "header": {
+            "fontSize": 12,
+            "fontFace": "Jost Regular",
+            "color": "#252423"
+        },
+        "label": {
+            "fontSize": 10,
+            "fontFace": "Jost Regular",
+            "color": "#252423"
+        }
+    },
+    "visualStyles": {
+        "gauge": {
+            "*": {
+                "textClasses": {
+                    "callout": {
+                        "fontSize": 45,
+                        "color": "#252426",
+                        "fontFamily": "Jost Bold"
+                    }
+                }
+            }
+        },
+        "page": {
+            "*": {
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#DADADA"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ]
+            }
+        }
+    }
+}

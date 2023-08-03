@@ -3,3 +3,4 @@ Aero is fictional SQL Server DB, which contains data about departures from Pragu
 * **Latest release**: [aero-release](aero-release)
 * **Documentation**: [documentation](documentation)
 * **Power BI samples**: [power-bi-dashboard](power-bi-dashboard)
+* **Generator scripts**: [generator](scripts)
